@@ -1,1 +1,1 @@
-# Github-AI-Powered-Developer-Platform
+# Github AI Powered Developer Platform
