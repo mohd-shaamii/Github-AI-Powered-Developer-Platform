@@ -14,7 +14,7 @@ git clone <url>
 git checkout -b feature-branch
 ```
 
-Make some changes
+Make some changes (add some files.py or .txt)
 
 ```bash
 git add .
@@ -37,10 +37,10 @@ git merge feature-branch
 git push origin feature-branch
 ```
 
-```bash
+<!-- ```bash
 git pull origin feature-branch  
-```
+``` -->
 
-```bash
+<!-- ```bash
 git push
-```
+``` -->

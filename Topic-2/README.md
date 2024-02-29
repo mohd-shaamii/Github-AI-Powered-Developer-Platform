@@ -6,7 +6,7 @@
 
 
 ```bash
-git branch -B feature-branch
+git branch -b feature-branch
 ```
 
 ```bash
@@ -20,10 +20,10 @@ git add .
 ```bash
 git commit -m "<message>"
 ```
-<!-- 
+
 ```bash
 git push origin feature-branch:main
-``` -->
+```
 
 <hr />
 

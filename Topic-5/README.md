@@ -19,13 +19,16 @@ git checkout main
 
 
 ```bash
-git cherry-pick <hash>
+git cherry-pick <hash_code>
 ```
 
-```bash
+<!-- ```bash
 git cherry-pick <from hash>..<to hash>
-```
+``` -->
 
 ```bash
 git cherry-pick --continue
+```
+```bash
+git cherry-pick origin main
 ```
