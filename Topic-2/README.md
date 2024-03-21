@@ -38,11 +38,3 @@ git checkout feature-branch
 ```bash
 git stash apply
 ```
-
-```bash
-git checkout new-branch
-```
-
-```bash
-git stash apply
-```
